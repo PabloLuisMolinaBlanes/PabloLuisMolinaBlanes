@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am a former cross-platform development student at [IESCampanilas](https://github.com/IESCampanillas) and a current student in Universidad de Málaga (UMA) as an undergraduate in Software Engineering. I am a self-motivated, hard-working, consistent junior developer and person willing to bring out the best of myself; and most importantly, I am a competent professional always willing to learn more and go above and beyond.
+
+I like to explore and work with multiple technologies, and stay up-to-date with the latest trends in technology and more niche areas; my strong areas are web development and cross-platform software development.
+
+You can check out more about me in the profiles in my sidebar and in my projects!
+
 <!--
 **PabloLuisMolinaBlanes/PabloLuisMolinaBlanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
