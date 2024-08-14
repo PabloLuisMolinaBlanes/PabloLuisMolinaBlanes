@@ -6,6 +6,8 @@ I like to explore and work with multiple technologies, and stay up-to-date with 
 
 You can check out more about me in the profiles in my sidebar and in my projects!
 
+[![Pablo Luis Molina Blanes's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloLuisMolinaBlanes)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **PabloLuisMolinaBlanes/PabloLuisMolinaBlanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
